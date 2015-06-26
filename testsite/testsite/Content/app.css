@@ -1,0 +1,119 @@
+﻿.navbar{
+    background-color:transparent;
+    border-color:transparent;
+}
+
+
+.bp-af-header-shrink{
+    background-color:pink;
+    border-color:transparent;
+    height:600px;
+
+}
+
+.navbar-header img{
+    width:50%;
+    height:50%;
+}
+
+.header-container{
+    width:100%;
+    height:600px;
+    border-left:none;
+    border-right:none;
+    position:relative;
+    padding:20px;
+}
+
+.cbp-af-header-shrink{
+    background-color: pink;
+}
+.header-content{
+    transition:all 0.5s;
+}
+.cbp-af-header-disappear{
+    opacity:0.1;
+}
+
+.video-container{
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    overflow:hidden;
+}
+
+video{
+    position:absolute;
+    z-index:-1;
+    opacity:0.78;
+    width:100%;
+}
+
+.header-container img{
+    z-index: 1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+    padding: 10px
+}
+
+h3{
+    color:#3cbc8d;
+    z-index: 1;
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:5%;
+    border:3px solid #fff;
+    padding: 10px;
+    border-radius:15px;
+    width:700px;
+    letter-spacing:3px;
+    font-size: 25px;
+    font-family:Haettenschweiler;
+}
+
+p {
+	color:#CCC;
+}
+
+.spacing {
+	padding-top:7px;
+	padding-bottom:7px;
+}
+.middlePage {
+	width: 780px;
+    height: 500px;
+    position: absolute;
+    top:250px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+/*search bar*/
+
+/*SEARCH FORM*/
+.search-form {
+    margin-top:13px;
+    border-radius: 30px 0px 0px 30px;
+    /*border-radius:Top-left, Top-right, Bottom-right, Bottom-left;*/
+}
+/*to cange only one form and not all give unique class name like  class="search-form" */
+ .search-btn {
+     margin-top:13px;
+    border-radius: 0px 30px 30px 0px;
+    cursor:pointer;
+}
+
+.input-group .form-control {
+  position: relative;
+  z-index: 2;
+  float: right;
+  width: 20%;
+  margin-bottom: 0;
+}
