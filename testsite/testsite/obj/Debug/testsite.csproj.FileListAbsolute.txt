@@ -10,3 +10,9 @@ C:\Users\Ahmed\Desktop\testsite\testsite\bin\testsite.pdb
 C:\Users\Ahmed\Desktop\testsite\testsite\obj\Debug\testsite.csprojResolveAssemblyReference.cache
 C:\Users\Ahmed\Desktop\testsite\testsite\obj\Debug\testsite.dll
 C:\Users\Ahmed\Desktop\testsite\testsite\obj\Debug\testsite.pdb
+C:\Users\Ahmed\Desktop\Yourtime-App\testsite\testsite\bin\testsite.dll.config
+C:\Users\Ahmed\Desktop\Yourtime-App\testsite\testsite\bin\testsite.dll
+C:\Users\Ahmed\Desktop\Yourtime-App\testsite\testsite\bin\testsite.pdb
+C:\Users\Ahmed\Desktop\Yourtime-App\testsite\testsite\obj\Debug\testsite.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Yourtime-App\testsite\testsite\obj\Debug\testsite.dll
+C:\Users\Ahmed\Desktop\Yourtime-App\testsite\testsite\obj\Debug\testsite.pdb
